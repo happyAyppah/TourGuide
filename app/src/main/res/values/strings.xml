@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">TourGuideNano</string>
+
+
+    <string name="category_location">Location</string>
+
+    <string name="category_hotel">Hotels</string>
+
+    <string name="category_restaurant">Eatery</string>
+
+    <string name="category_event">Events</string>
+
+    <!-- Location -->
+    <string name="loc_one">Akshardham Temple</string>
+    <string name="loc_one_add">Noida Mor, Pandav Nagar, New Delhi</string>
+
+    <string name="loc_two">Humayun Tomb</string>
+    <string name="loc_two_add">Mathura Road Opposite Dargah, Nizamuddin</string>
+
+    <string name="loc_three">India Gate</string>
+    <string name="loc_three_add">Rajpath, India Gate</string>
+
+    <string name="loc_four">Jantar Mantar</string>
+    <string name="loc_four_add">Sansad Marg, Connaught Place</string>
+
+    <string name="loc_five">Lodi Gadern</string>
+    <string name="loc_five_add">Lodhi Rd, Lodhi Gardens, Lodhi Estate</string>
+
+    <string name="loc_six">Lotus Temple</string>
+    <string name="loc_six_add">Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh</string>
+
+    <string name="loc_seven">Parliament House</string>
+    <string name="loc_seven_add">Sansad Marg, Gokul Nagar, Janpath, Connaught Place</string>
+
+    <string name="loc_eight">Rashtrapati Bhawan</string>
+    <string name="loc_eight_add">Rashtrapati Bhawan, Presidents Estate</string>
+
+    <string name="loc_nine">Red Fort</string>
+    <string name="loc_nine_add">Netaji Subhash Marg, Lal Qila, Chandni Chowk</string>
+
+    <string name="loc_ten">Qutub Minar</string>
+    <string name="loc_ten_add">Mehrauli, New Delhi</string>
+
+
+    <!-- Hotels -->
+    <string name="hot_one">Maidens Hotel</string>
+    <string name="hot_one_add">7, Sham Nath Marg, Prema Kunj, Civil Lines</string>
+
+    <string name="hot_two">LaLiT New Delhi</string>
+    <string name="hot_two_add">Near, Barakhamba Rd, Police Station, Connaught Place</string>
+
+    <string name="hot_three">The Imperial New Delhi</string>
+    <string name="hot_three_add">Janpath Ln, Janpath, Connaught Place</string>
+
+    <string name="hot_four">The Oberoi</string>
+    <string name="hot_four_add">Dr Zakir Hussain Marg, Delhi Golf Club</string>
+
+    <string name="hot_five">The Taj Mahal Hotel</string>
+    <string name="hot_five_add"> 1, Man Singh Rd, South Block, Man Singh Road Area</string>
+
+    <string name="hot_six">The Lodhi</string>
+    <string name="hot_six_add">Lodhi Rd, CGO Complex, Pragati Vihar</string>
+
+    <string name="hot_seven">The Leela Palace</string>
+    <string name="hot_seven_add">Diplomatic Enclave, Chanakyapuri</string>
+
+    <string name="hot_eight">The Eros</string>
+    <string name="hot_eight_add">Eros Hotel, Nehru Place</string>
+
+    <string name="hot_nine">The Manor Hotel</string>
+    <string name="hot_nine_add">Eros Hotel, Nehru Place</string>
+
+    <string name="hot_ten">ITC Maurya</string>
+    <string name="hot_ten_add">Akhaura Block, Diplomatic Enclave, Chanakyapuri</string>
+
+
+    <!-- Restaurants -->
+
+    <string name="eat_one">Thyme</string>
+    <string name="eat_one_add">Lobby Level Samalkha | The Umrao Hotel,\n5 ★</string>
+
+    <string name="eat_two">Juniper Bar</string>
+    <string name="eat_two_add">Aerocity 1 Asset No, New Delhi 110002,\n5 ★</string>
+
+    <string name="eat_three">AnnaMaya</string>
+    <string name="eat_three_add">Aerocity 1 Asset No, New Delhi 110002,\n5 ★</string>
+
+    <string name="eat_four">Indyaki</string>
+    <string name="eat_four_add">Pashchim Vihar | Radisson Blu Hotel,\n4.5 \u2605</string>
+
+    <string name="eat_five">Pling</string>
+    <string name="eat_five_add">Asset Number 02 | GMR Hospitality District IGI Airport,\n5 ★</string>
+
+    <string name="eat_six">Sorrento</string>
+    <string name="eat_six_add">Pashchim Vihar | Radisson Blu Hotel,\n4.0 \u2605</string>
+
+    <string name="eat_seven">Shang Palace</string>
+    <string name="eat_seven_add">19 Shang Palace Ashoka Road | Connaught Place,\n5 ★</string>
+
+    <string name="eat_eight">Quoin</string>
+    <string name="eat_eight_add">Asset No 2 | Aerocity Hospitality District,\n5 ★</string>
+
+
+    <!-- Events -->
+
+    <string name="event_one">Blaze to India</string>
+    <string name="event_one_loc">Innov8 Coworking Saket,\n 15 Nov, 6:00 P.M.</string>
+
+    <string name="event_two">Heritage Walk</string>
+    <string name="event_two_loc">Chandni Chowk Post Office,\n 15 Nov, 11:00 A.M.</string>
+
+    <string name="event_three">Baaki Itihaas</string>
+    <string name="event_three_loc">Akshara Theatre , Delhi,\n 16 Nov, 7:00 P.M.</string>
+
+    <string name="event_four">Dilli Chhe</string>
+    <string name="event_four_loc">Chawri Bazaar,\n 24 Nov 9:30AM</string>
+
+
+
+
+
+</resources>

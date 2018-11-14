@@ -2,7 +2,6 @@ package com.example.android.tourguidenano;
 
 public class Tour {
 
-
     private int TourHeading;
 
     private int TourSubHeading;
@@ -10,7 +9,6 @@ public class Tour {
     private int ImageResourceId = NO_IMAGE_PROVIDED;
 
     private static final int NO_IMAGE_PROVIDED = -1;
-
 
 
     public Tour(int tourHeading, int tourSubHeading) {
@@ -24,8 +22,6 @@ public class Tour {
         TourSubHeading = tourSubHeading;
         ImageResourceId = imageResourceId;
     }
-
-
 
 
     public int getTourHeading() {
@@ -44,9 +40,4 @@ public class Tour {
         return ImageResourceId != NO_IMAGE_PROVIDED;
     }
 
-
-
 }
-
-
-

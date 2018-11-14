@@ -16,18 +16,15 @@ import java.util.ArrayList;
  */
 public class HotelFragment extends Fragment {
 
-
     public HotelFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
         View rootView = inflater.inflate(R.layout.tour_list, container, false);
-
 
         // Create a list
         final ArrayList<Tour> tours = new ArrayList<Tour>();

@@ -16,7 +16,6 @@ import java.util.ArrayList;
  */
 public class RestaurantFragment extends Fragment {
 
-
     public RestaurantFragment() {
         // Required empty public constructor
     }
@@ -26,7 +25,6 @@ public class RestaurantFragment extends Fragment {
                              Bundle savedInstanceState) {
 
         View rootView = inflater.inflate(R.layout.tour_list, container, false);
-
 
         // Create a list
         final ArrayList<Tour> tours = new ArrayList<Tour>();
@@ -39,7 +37,6 @@ public class RestaurantFragment extends Fragment {
         tours.add(new Tour(R.string.eat_seven, R.string.eat_seven_add));
         tours.add(new Tour(R.string.eat_eight, R.string.eat_eight_add));
 
-
         TourAdapter adapter = new TourAdapter(getActivity(), tours);
 
         ListView listView = rootView.findViewById(R.id.list);
@@ -48,5 +45,4 @@ public class RestaurantFragment extends Fragment {
 
         return rootView;
     }
-
 }

@@ -3,7 +3,6 @@ package com.example.android.tourguidenano;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-
 public class HotelActivity extends AppCompatActivity {
 
     @Override

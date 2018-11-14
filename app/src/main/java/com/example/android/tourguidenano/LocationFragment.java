@@ -16,18 +16,15 @@ import java.util.ArrayList;
  */
 public class LocationFragment extends Fragment {
 
-
     public LocationFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
         View rootView = inflater.inflate(R.layout.tour_list, container, false);
-
 
         // Create a list
         final ArrayList<Tour> tours = new ArrayList<Tour>();
@@ -50,5 +47,4 @@ public class LocationFragment extends Fragment {
 
         return rootView;
     }
-
 }
